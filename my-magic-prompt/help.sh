@@ -15,5 +15,5 @@ help() {
   echo "  hour       - Print the current hour"
   echo "  Type any other command for it to be recognized as unknown."
   echo "  httpget    - Download the HTML source of a web page and save it to a specific file"
-  echo "  open      - Open a file directly in VIM, even if it doesn't exist"
+  echo "  openVim      - Open a file directly in VIM, even if it doesn't exist"
 }
